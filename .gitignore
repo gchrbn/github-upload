@@ -1,0 +1,3 @@
+# venv and zip files are ignored
+*.venv
+*.zip
